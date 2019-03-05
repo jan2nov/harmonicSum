@@ -1,0 +1,27 @@
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Compilation output
+2DEXHRMS
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Other
+*.swp
+*~
+*.sav
+*.old
+*.new
+*.ori
+*.dat
+*.txt
+
+other/
+gnuplot/images/
